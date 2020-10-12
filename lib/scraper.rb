@@ -32,5 +32,6 @@ def print_courses
      end
    end
  end
+end
 
 Scraper.new.print_courses
